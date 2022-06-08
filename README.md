@@ -1,6 +1,10 @@
 ### Greetings and salutations 👋
 
-Welcome to my GithHub page. I'm Virginia, a budding software engineer. After beginning my career in finance, I decided to make a career change and enrolled in coding bootcamp - shoutout Tech Elevator! The rest is, as they say, history. I'm a full stack developer just getting my start in the industry. 
+Welcome to my GithHub page. I'm Virginia, a budding software engineer. After beginning my career in finance, I decided to make a switch and enrolled in coding bootcamp - shoutout Tech Elevator! The rest is, as they say, history. I'm a full stack developer just getting my start in the industry. 
+
+Languages:
+Java ☕
+
 
 <!--
 **vjand11/vjand11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
