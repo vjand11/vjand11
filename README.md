@@ -2,8 +2,7 @@
 
 Welcome to my GithHub page. I'm Virginia, a budding software engineer. After beginning my career in finance, I decided to make a switch and enrolled in coding bootcamp - shoutout Tech Elevator! The rest is, as they say, history. I'm a full stack developer just getting my start in the industry. 
 
-Languages:
-Java ☕
+<i class="devicon-java-plain"></i>
 
 
 <!--
